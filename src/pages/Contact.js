@@ -1,6 +1,6 @@
 import React from 'react'
 
-const LogIn = () => {
+const Contact = () => {
   return (
     <div>
         <input type='text'></input>
@@ -9,4 +9,4 @@ const LogIn = () => {
   )
 }
 
-export default LogIn
+export default Contact
